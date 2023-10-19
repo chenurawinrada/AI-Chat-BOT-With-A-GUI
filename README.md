@@ -6,9 +6,9 @@ An AI chat bot with a pyqt5 GUI using Tensorflow.
   1) main.py - main code
   2) train.py - to train the bot's model (chatmodel)
 
-<b>Screenshots</b>
-<img src=""><br>
-<img src=""><br>
+<b>Screenshots</b><br>
+<img src="https://github.com/chenurawinrada/AI-Chat-BOT-With-A-GUI/blob/main/AIROBOTGUI/imgs/bot_sc_1.png"><br>
+<img src="https://github.com/chenurawinrada/AI-Chat-BOT-With-A-GUI/blob/main/AIROBOTGUI/imgs/bot_sc_2.png"><br>
 
 <b>Installation</b>
 * Requirments (Will need only if you use .py files),
